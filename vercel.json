@@ -1,12 +1,3 @@
 {
-  "crons": [
-    {
-      "path": "/api/cron/market-simulation",
-      "schedule": "0 */6 * * *"
-    },
-    {
-      "path": "/api/cron/daily-challenges",
-      "schedule": "0 0 * * *"
-    }
-  ]
+  "name": "road-to-success"
 }
